@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "company_name": "Example Domain",
+    "website_url": "https://example.com",
+    "emails": [],
+    "phones": [],
+    "tech_stack": [],
+    "error": null
+  },
+  {
+    "company_name": "Python.org",
+    "website_url": "https://www.python.org",
+    "emails": [],
+    "phones": [
+      "1000 ) 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987",
+      "5.666666666666667",
+      "2026- 10-07"
+    ],
+    "tech_stack": [
+      "jQuery"
+    ],
+    "error": null
+  }
+]
